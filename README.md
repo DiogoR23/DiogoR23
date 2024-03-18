@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoR23
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning all the aspects about Artificial Intelligence (AI)
+- 🌱 I’m currently learning all the aspects about Machine Learning, Deep Learning, NLP and Artificial Intelligence.
 - 📫 How to reach me diogo.gorodrigues@gmail.com
 
 <!---
