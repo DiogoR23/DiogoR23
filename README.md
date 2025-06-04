@@ -1,5 +1,6 @@
-# 💫 About Me
-I am a Data enthusiast with a Bachelor's of Data Science with passion about solving problems using **Machine Learning**, **Deep Learning**, **NLP**, **AI**.
+# 👨‍💻 About Me
+
+I am a Data enthusiast with a Bachelor's in Data Science from Portugal, passionate about solving problems using **Machine Learning**, **Deep Learning**, **NLP**, and **AI**.
 
 Currently learning and building intelligent systems for real-world applications.
 
@@ -9,7 +10,7 @@ Currently learning and building intelligent systems for real-world applications.
 - Time Series Analysis
 - Data Visualization & Analytics
 - R, Python, Power BI, Jupyter Notebooks, Git
-- Cassandra, PosteGreSQL, SQLite
+- Cassandra, PostgreSQL, SQLite
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-rodrigues-6ba233252)
