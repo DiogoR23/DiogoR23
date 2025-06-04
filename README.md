@@ -28,4 +28,3 @@ Currently learning and building intelligent systems for real-world applications.
 ## 📫 Contact
 
 - 📧 diogo.gorodrigues@gmail.com
-- 📌 Ponte de Lima, Portugal
