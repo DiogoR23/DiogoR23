@@ -7,7 +7,7 @@ Currently learning and building intelligent systems for real-world applications.
 ## 🧠 Areas of Interest
 - Machine Learning & Deep Learning
 - Natural Language Processing (NLP)
-- Time Series Analysis
+- Time Series Analysis & Forecasting
 - Data Visualization & Analytics
 - R, Python, Power BI, Jupyter Notebooks, Git
 - Cassandra, PostgreSQL, SQLite
