@@ -2,7 +2,7 @@
 
 I am a Data enthusiast with a Bachelor's in Data Science from Portugal, passionate about solving problems using **Machine Learning**, **Deep Learning**, **NLP**, and **AI**.
 
-Currently learning and building intelligent systems for real-world applications.
+Currently in a Master's Degree in Engineering and Data Science at University of Minho.
 
 ## 🧠 Areas of Interest
 - Machine Learning & Deep Learning
