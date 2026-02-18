@@ -9,6 +9,7 @@ Currently in a Master's Degree in Engineering and Data Science at University of 
 - Natural Language Processing (NLP)
 - Time Series Analysis & Forecasting
 - Data Visualization & Analytics
+- Data Engineering
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-rodrigues-6ba233252)
