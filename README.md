@@ -5,8 +5,8 @@ I am a Data enthusiast with a Bachelor's in Data Science from Portugal, passiona
 Currently in a Master's Degree in Engineering and Data Science at University of Minho.
 
 ## 🚀 Featured Project
-### ⚖️ [Amel.IA – Portuguese Legal Assistant](https://github.com/DiogoR23/Portuguese-Legal-Assistant)
-AI-powered legal assistant using a local LLM and RAG pipeline to provide reliable answers based on official Portuguese legal data.
+### [Amel.IA – Portuguese Legal Assistant](https://github.com/DiogoR23/Portuguese-Legal-Assistant)
+AI-powered legal assistant using a locally hosted LLM and a RAG pipeline to deliver reliable answers from official Portuguese legal sources.
 
 ## 🧠 Areas of Interest
 - Machine Learning & Deep Learning
